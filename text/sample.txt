@@ -1,0 +1,10 @@
+Uses of RESTful API
+RESTful API provides services to access resources from external applications or REST clients. Some of the predominant uses of the RESTful API is listed below.
+
+As an interface with multi-platform support which is used to access resources from outside application coded in various programming languages like PHP, JAVA, Android and more.
+REST is the simple architectural style for transmitting data over HTTP.
+The REST API is the most suitable resource provider for an AJAX-based application interface which requires data to update UI without page reload.
+By meeting more the REST constraints, the web applications or services can support a wide range of clients.
+
+
+To demonstrate how to make API calls via a frontend client with JQuery, we'll be walking through how to create link previews using the LinkPreview API.
